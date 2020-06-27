@@ -3,7 +3,7 @@ Um projeto simples e problemático para refinar conforme o ganho de novas habili
 
 **Autor:** Renan Novaes  
 **E-Mail:** zerotres.br@gmail.com  
-*Estudante autónomo.*
+*Estudante autônomo.*
 
 O propósito do projeto é criar um programa simples - nesse caso, um jogo - como forma de praticar a linguagem Java e possivelmente a Spring Framework. O programa tem problemas de arquitetura e não foi previamente planejado.
 Dicas, sugestões e correções são bem-vindas.  
